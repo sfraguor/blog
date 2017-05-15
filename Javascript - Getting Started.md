@@ -1,6 +1,6 @@
 
 # Javascript - Getting Started
-### Aprende javascript con MentoringJS - Pretraining Step 2
+### [Aprende javascript con MentoringJS - Pretraining Step 2](http://mentoringjs.com)
 
 Para empezar a entender los conceptos esenciales de Javascript es muy buen punto de partida el primer capítulo del libro "Speaking Javascript", 
 que podemos leer de forma online completamente gratuita a través del siguiente enlace.
