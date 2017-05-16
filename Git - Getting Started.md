@@ -9,4 +9,36 @@ https://www.codeschool.com/courses/try-git
 
 #### Resumen de comandos y conceptos GIT aprendidos
 
-Lo primero que tenemos que tener en cuenta antes de poder utilizar la herramienta GIT es que debemos tener la herramienta instalada. Para ello lo mejor es que introduzcamos en la linea de comandos de windows, mac o linux el comando: git --version
+Lo primero que tenemos que tener en cuenta antes de poder utilizar la herramienta GIT en nuestros archivos locales es que debemos tener la herramienta instalada. Para ello lo mejor es que introduzcamos en la linea de comandos de windows, mac o linux el comando: **git --version** para que nos muestre la versión que tenemos de git.
+Si no reconoce el comando significará que no tenemos git instalado y que por tanto lo primero que tenemos que hacer es instalarlo.
+
+En la página oficial nos explican como hacerlo en función de nuestro sistema operativo.
+
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+Una vez instalado, ya podemos empezar a utilizar los comandos. Para poder empezar a trabajar con git tenemos que tener el cliente inicializado en el directorio raiz en el que queramos trabajar, de manera que una vez lo hayamos hecho cualquier variación quedar registrada por git.
+
+El primer comando que deberemos utilitasr por tanto la primera vez que iniciemos un proyecto que queramos controlar con git es: 
+
+**git init**
+
+El siguiente comando que utilizaremos es para ir viendo en que estado estan los archivos de este directorio con respecto a GIT. Para ello usaremos el comando
+
+**git status**
+
+Una vez realicemos cualquier tipo de cambio en este directorio, GIT lo registrará y situará los cambios en una especie de cola y nosotros debemos decir a GIT si queremos poner esos archivos a seguimiento para posteriormente hacer un commit.
+
+Usaremos por tanto la orden:
+
+**git add** y el nombre del fichero o ficheros que queramos situar a seguimiento o si queremos situar todos los archivos a seguimiento, utilizaremos la orden **git add -A**
+
+A la hora de añadir todos los archivos a seguimiento podemos encontrarnos con 3 ordenes muy parecidas y que pueden llevarnos a confusión por lo que aconsejo leer este enlace para tenerlo claro: https://atrystwithprogramming.wordpress.com/tag/git-add-vs-git-add/
+
+
+
+
+
+
+
+
+
