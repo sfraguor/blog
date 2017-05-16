@@ -28,11 +28,25 @@ El siguiente comando que utilizaremos es para ir viendo en que estado estan los 
 
 Una vez realicemos cualquier tipo de cambio en este directorio, GIT lo registrará y situará los cambios en una especie de cola y nosotros debemos decir a GIT si queremos poner esos archivos a seguimiento para posteriormente hacer un commit.
 
-Usaremos por tanto la orden:
-
-**git add** y el nombre del fichero o ficheros que queramos situar a seguimiento o si queremos situar todos los archivos a seguimiento, utilizaremos la orden **git add -A**
+Usaremos por tanto la orden **git add** y el nombre del fichero o ficheros que queramos situar a seguimiento o si queremos situar todos los archivos a seguimiento, utilizaremos la orden **git add -A**
 
 A la hora de añadir todos los archivos a seguimiento podemos encontrarnos con 3 ordenes muy parecidas y que pueden llevarnos a confusión por lo que aconsejo leer este enlace para tenerlo claro: https://atrystwithprogramming.wordpress.com/tag/git-add-vs-git-add/
+
+Una vez añadidos los archivos para seguimiento el siguiente paso natural sería realizar un commit utilizando para ello el comando:
+
+**git commit -m "primer commit"** (donde primer commit puede ser un comentario cualquiera, sencillo y que permita identificar que queremos commitar)
+
+Para obtener un log de los commits que vamos haciendo usaremos el comando: 
+
+**git log**
+
+Una vez realizado el commit, el último paso si trabajamos en remoto con github sería subir el cambio. Esta acción la realizariamos con el comando **git push origin master**. De manera que subiriamos los cambios a la rama master de nuestro repositorio remoto.
+
+Cuando trabajamos en remoto, antes de realizar la acción **git push** debemos asegurarnos de que tenemos todos los archivos locales actualizados con los remotos. Para hacer esta sincronización haremos uso del comando **git pull origin master** y ahora si podremos realizar un push, evitando problemas.
+
+Teniendo claros estos comandos podremos empezar a trabajar con GIT para ir cogiendo confianza, para más adelante empezar a trabajar con ramas que es la parte más interesante y potente de la herramienta.
+
+
 
 
 
