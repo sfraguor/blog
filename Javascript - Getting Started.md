@@ -8,27 +8,16 @@ http://speakingjs.com/es5/ch01.html
 
 A continuación he realizado una pequeña síntesis de conceptos, dudas y aclaraciones que me han surgido en el momento de la lectura y que servirán como recordatorio y tabla de consulta rápida por si tenemos dudas más adelante. Sobre todo he querido incluir los conceptos más importantes y los que pueden ser un poco confusos al principio.
 
-### Conceptos que debemos tener claros en Javascript
+### Conceptos que debemos tener claros en Javascript (Esta lista puede actualizarse si surgen nuevos conceptos importantes)
 
-- Statements - Instrucciones
-- Expressions
-- Variables
-- Funciones
-Objetos
-
-Métodos
-
-Parámetros
-
-Identifier
-
-Instancia
-
-Properties 
-
-Scope - alcance o ámbito sobre el que tienen efecto por ejemplo unas variables
-
-Encapsular
+- Statements: Instrucciones a ser ejecutadas por el navegador.
+- Expressions: Una expresión es cualquier unidad válida de código que resuelve un valor.
+- Variables: Son contenedores para guardar valores.
+- Funciones: Una función son un conjunto de sentencias que realizan una tarea o calculan un valor.
+- Objetos: Grupo de propiedades y funciones que pueden ser accedidos a través de una clave.
+- Métodos: Un método es una función asociada a un objeto, o, simplemente, un método es una propiedad de un objeto que es una función
+- Scope: Alcance o ámbito sobre el que tienen efecto por ejemplo unas variables
+- Encapsular: La encapsulación se refiere a impedir el acceso a determinados métodos y propiedades de los objetos estableciendo así que métodos y propiedades de estos pueden ser utilizados desde el resto del código
 
 #### Variables
 
