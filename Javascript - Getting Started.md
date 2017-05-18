@@ -10,13 +10,10 @@ A continuación he realizado una pequeña síntesis de conceptos, dudas y aclara
 
 ### Conceptos que debemos tener claros en Javascript
 
-Statements
-
-Expressions
-
-Variables
-
-Funciones
+-Statements - Instrucciones
+-Expressions
+-Variables
+-Funciones
 
 Objetos
 
@@ -118,7 +115,11 @@ Este concepto no lo conocía apenas y sin embargo me he dado cuenta de lo import
 - Objeto con las propiedades name y describe, podemos obtener y asignar valores a estas propiedades, asi como crear nuevas propiedades.
 - A las propiedades que contienen funciones como en este caso describe se les llama métodos.
 
+**Constructores
 
+Los constructores me resultan complicados de entender, he intentado buscar algun articulo que me ayude a entenderlo y el que me ha ayudado más ha sido el siguiente. Todavía tengo que volver a leerlo unas cuantas veces para poder tenerlo completamente claro.
+
+http://www.programania.net/diseno-de-software/entendiendo-los-prototipos-en-javascript/
 
 
 
