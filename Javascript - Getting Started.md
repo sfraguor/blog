@@ -6,7 +6,7 @@ Antes de empezar a trabajar con proyectos en Javascript es muy importante tener 
 
 http://speakingjs.com/es5/ch01.html
 
-A continuación he realizado una pequeña síntesis de conceptos, dudas y aclaraciones que me han surgido en el momento de la lectura y que servirán como recordatorio y tabla de consulta rápida por si tenemos dudas más adelante. 
+A continuación he realizado una pequeña síntesis de conceptos, dudas y aclaraciones que me han surgido en el momento de la lectura y que servirán como recordatorio y tabla de consulta rápida por si tenemos dudas más adelante. Sobre todo he querido incluir los conceptos más importantes y los que pueden ser un poco confusos al principio.
 
 ### Conceptos que debemos tener claros en Javascript
 
@@ -22,9 +22,13 @@ Objetos
 
 Métodos
 
+Parámetros
+
 Identifier = Nombres que juegan diversos roles sintácticos. Son sensibles a mayúsculas.
 
 Properties = .Utilizamos el operador (.) para acceder a una propiedad
+
+Scope
 
 #### Variables
 
@@ -32,6 +36,9 @@ Las variables en Javascript se definen con la palabra clave **var** pudiéndo da
 
 var test1;
 var test1=0;
+
+Las variables son en javascript son "hoisted" sin embargo, pero las asignaciones no lo son y esto es importante tenerlo en cuenta.
+[Hoisting en Javascript](http://www.etnassoft.com/2010/12/26/hoisting-en-javascript/)
 
 #### Valores primitivas, Objetos y Propiedades
 
@@ -71,6 +78,27 @@ Null representa la ausencia de valor intencional, es decir que somos nosotros in
 var test = null;
 
 #### Funciones
+
+Otra de los conceptos que hemos de tener claros son las funciones, las funciones son fundamentales y es primordial tener muy claro su funcionamiento.
+
+La forma más común cuando aprendemos de declarar una función y pasarle parámetros es la siguiente:
+
+**function add(param1, param2) {
+    return param1 + param2;
+}**
+
+Pero en muchas ocasiones veremos como se asigna la función y luego esta función se utiliza a través de la variable en la que se ha almacenado. Este método es muy común en Javascript y lo encontraremos en múltiples ocasiones.
+
+**var add = function (param1, param2) {
+    return param1 + param2;
+};** 
+
+Sin embargo, he decidido investigar un poco más para saber cual de estos dos métodos de declaración es más correcto y he encontrado el siguiente e interesante artículo: [Diferencias a la hora de definir funciones](http://qbit.com.mx/blog/2013/08/23/formas-de-crear-funciones-en-javascript/)
+
+
+
+
+
 
 
 
