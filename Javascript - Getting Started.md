@@ -10,11 +10,10 @@ A continuación he realizado una pequeña síntesis de conceptos, dudas y aclara
 
 ### Conceptos que debemos tener claros en Javascript
 
--Statements - Instrucciones
--Expressions
--Variables
--Funciones
-
+- Statements - Instrucciones
+- Expressions
+- Variables
+- Funciones
 Objetos
 
 Métodos
