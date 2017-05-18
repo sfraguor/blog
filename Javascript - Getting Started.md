@@ -41,7 +41,7 @@ var prueba2 = {
 
 En este caso tenemos la variable prueba que tiene asignado un valor primitivo y el objeto prueba2, tiene las propiedades : nombre, dificultad y numeroPaginas.
 
-### Undefined and null [ref](http://www.enrique7mc.com/2016/01/diferencia-entre-null-y-undefined-en-javascript/)
+### Undefined and null ([ref](http://www.enrique7mc.com/2016/01/diferencia-entre-null-y-undefined-en-javascript/))
 
 Estos valores llamados "nonvalues" son importantes en Javascript y enseguida que empecemos a desarrollar con el lenguaje nos daremos cuenta de que vamos a verlos y utilizarlos muy amenudo. Estos valores pueden dar lugar a confusion y esta confusión puede dar lugar errores lógicos o bugs difíciles de encontrar y por eso es muy importante entender la diferencia.
 
@@ -56,7 +56,7 @@ foo(); // El parámetro bar tiene un valor undefined.
 
 Undefined es un tipo de dato y por lo tanto, lo podemos asignar a una variable, sin embargo es preferible que nunca asignemos directamente el valor undifined, ya que cunado nos encontremos con una variable de este tipo no estaremos seguros si fue javascript o nosotros quien le asignamos ese valor, y eso nos puede generar problemas más adelante.
 
-**Null*
+**Null**
 
 Null representa la ausencia de valor intencional, es decir que somos nosotros intencionadamente los que asignamos este valor a una variable cuando no sabemos que valor va a contener.
 
