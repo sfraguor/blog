@@ -24,11 +24,13 @@ Métodos
 
 Parámetros
 
-Identifier = Nombres que juegan diversos roles sintácticos. Son sensibles a mayúsculas.
+Identifier 
 
-Properties = .Utilizamos el operador (.) para acceder a una propiedad
+Properties 
 
-Scope
+Scope - alcance o ámbito sobre el que tienen efecto por ejemplo unas variables
+
+Encapsular
 
 #### Variables
 
@@ -56,7 +58,7 @@ var prueba2 = {
 
 En este caso tenemos la variable prueba que tiene asignado un valor primitivo y el objeto prueba2, tiene las propiedades : nombre, dificultad y numeroPaginas.
 
-### Undefined and null ([ref](http://www.enrique7mc.com/2016/01/diferencia-entre-null-y-undefined-en-javascript/))
+### Undefined and null ([Más información](http://www.enrique7mc.com/2016/01/diferencia-entre-null-y-undefined-en-javascript/))
 
 Estos valores llamados "nonvalues" son importantes en Javascript y enseguida que empecemos a desarrollar con el lenguaje nos daremos cuenta de que vamos a verlos y utilizarlos muy amenudo. Estos valores pueden dar lugar a confusion y esta confusión puede dar lugar errores lógicos o bugs difíciles de encontrar y por eso es muy importante entender la diferencia.
 
@@ -95,8 +97,13 @@ Pero en muchas ocasiones veremos como se asigna la función y luego esta funció
 
 Sin embargo, he decidido investigar un poco más para saber cual de estos dos métodos de declaración es más correcto y he encontrado el siguiente e interesante artículo: [Diferencias a la hora de definir funciones](http://qbit.com.mx/blog/2013/08/23/formas-de-crear-funciones-en-javascript/)
 
+#### Closures
 
+Este concepto no lo conocía apenas y sin embargo me he dado cuenta de lo importante que es tenerlo claro. Por eso he buscado información y he encontrado este fantástico artículo, que recomiendo leer repetidas veces hasta poder asimilar todos los conceptos. A mi todavía me quedan unas cuantas lecturas.
 
+####[Closures](https://jherax.wordpress.com/2015/02/13/javascript-closures/)
+
+#### Objetos y consultores
 
 
 
