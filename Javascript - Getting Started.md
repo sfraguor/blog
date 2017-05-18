@@ -24,7 +24,9 @@ Métodos
 
 Parámetros
 
-Identifier 
+Identifier
+
+Instancia
 
 Properties 
 
@@ -101,9 +103,21 @@ Sin embargo, he decidido investigar un poco más para saber cual de estos dos m�
 
 Este concepto no lo conocía apenas y sin embargo me he dado cuenta de lo importante que es tenerlo claro. Por eso he buscado información y he encontrado este fantástico artículo, que recomiendo leer repetidas veces hasta poder asimilar todos los conceptos. A mi todavía me quedan unas cuantas lecturas.
 
-####[Closures](https://jherax.wordpress.com/2015/02/13/javascript-closures/)
+[Closures](https://jherax.wordpress.com/2015/02/13/javascript-closures/)
 
-#### Objetos y consultores
+#### Objetos y constructores
+
+**var jane = {
+    name: 'Jane',
+
+    describe: function () {
+        return 'Person named '+this.name;
+    }
+};**
+
+- Objeto con las propiedades name y describe, podemos obtener y asignar valores a estas propiedades, asi como crear nuevas propiedades.
+- A las propiedades que contienen funciones como en este caso describe se les llama métodos.
+
 
 
 
