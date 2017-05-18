@@ -11,11 +11,19 @@ A continuación he realizado una pequeña síntesis de conceptos, dudas y aclara
 ### Conceptos que debemos tener claros en Javascript
 
 Statements
+
 Expressions
+
 Variables
+
 Funciones
+
 Objetos
+
+Métodos
+
 Identifier = Nombres que juegan diversos roles sintácticos. Son sensibles a mayúsculas.
+
 Properties = .Utilizamos el operador (.) para acceder a una propiedad
 
 #### Variables
@@ -62,7 +70,7 @@ Null representa la ausencia de valor intencional, es decir que somos nosotros in
 
 var test = null;
 
-
+#### Funciones
 
 
 
