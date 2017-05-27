@@ -8,3 +8,7 @@ background-size Cover vs 100%
 Es mejor no asignar a las imagenes una anchura y altura especificas con CSS.
 
 Los navegadores leen el CSS desde la parte de arriba a la de abajo
+
+
+#Codecademy
+La propiedad z-index no funciona en elementos estáticos (position:static)
