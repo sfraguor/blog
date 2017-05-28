@@ -19,3 +19,4 @@ Propiedad clear
 Para poder centrar una imagen, primero tenemos que cambiar a un elemento block. Las imagenes son por defecto elementos inline.
 
 background-size: contain (buscar info)
+background-attachment:
