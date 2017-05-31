@@ -5,15 +5,17 @@
 Una introducción a la historia de internet muy interesante y que me ha hecho buscar un poco más sobre el protocolo TCP/IP. He encontrado esta web que explica un poco ms sobre este importante protocolo
 [Protocolo TCP/IP](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals/)
 
-What is the Internet, really?
-
+[What is the Internet, really?](https://www.youtube.com/watch?v=XE_FPEFpHt4)
+Una perspectiva muy interesante que me hizo buscar un poco más de información sobre el tema del cable que va bajo el mar.
 [1000 millones de metros de cable submarino](https://www.xataka.com/historia-tecnologica/1-000-millones-de-metros-de-cable-submarino-son-los-responsables-de-que-tengas-internet-en-casa)
 
-How the Internet Works
+[How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc)
+Interesante video sobre el sistema de paquetería que utiliza internet. Me ha venido bien para recordar conceptos de redes de la carrera.
 
-DNS Explained
+[DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA)
+[Más sobre DNS]https://www.xatakamovil.com/conectividad/como-funciona-internet-dns
 
-Ebook
+[Ebook]()
 
 20 Things
 
