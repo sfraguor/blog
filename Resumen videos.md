@@ -15,9 +15,9 @@ Interesante video sobre el sistema de paquetería que utiliza internet. Me ha ve
 [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA)
 [Más sobre DNS](https://www.xatakamovil.com/conectividad/como-funciona-internet-dns)
 
-[20 Things](http://www.20thingsilearned.com/en-US/plugins/2)
+[20 Things]
+(http://www.20thingsilearned.com/en-US/plugins/2)
 Completísimo e interesantísimo libro, ya lo había leido y no me ha importado volverlo a leer.
 
-
-
-[What is Programming]
+[What is Programming](https://www.lynda.com/Developer-Programming-Foundations-tutorials/What-programming/83603/90430-4.html)
+Muy interesante partir desde lo más básico para entender bien en que se basa la programación. Ya había visto algun video más de estas series y siempre me han parecidos muy claros e interesantes.
