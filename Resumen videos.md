@@ -13,10 +13,11 @@ Una perspectiva muy interesante que me hizo buscar un poco más de información 
 Interesante video sobre el sistema de paquetería que utiliza internet. Me ha venido bien para recordar conceptos de redes de la carrera.
 
 [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA)
-[Más sobre DNS]https://www.xatakamovil.com/conectividad/como-funciona-internet-dns
+[Más sobre DNS](https://www.xatakamovil.com/conectividad/como-funciona-internet-dns)
 
-[Ebook]()
+[20 Things](http://www.20thingsilearned.com/en-US/plugins/2)
+Completísimo e interesantísimo libro, ya lo había leido y no me ha importado volverlo a leer.
 
-20 Things
 
-What is Programming
+
+[What is Programming]
