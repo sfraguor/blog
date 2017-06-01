@@ -3,12 +3,13 @@
 
 [History of the Internet](https://www.youtube.com/watch?v=9hIQjrMHTv4)
 
-Una introducción a la historia de internet muy interesante y que me ha hecho buscar un poco más sobre el protocolo TCP/IP. He encontrado esta web que explica un poco ms sobre este importante protocolo
+Una introducción a la historia de internet muy interesante y que me ha hecho buscar un poco más sobre el protocolo TCP/IP. 
+He encontrado esta web que explica un poco más sobre este importante protocolo
 [Protocolo TCP/IP](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals/)
 
 [What is the Internet, really?](https://www.youtube.com/watch?v=XE_FPEFpHt4)
 
-Una perspectiva muy interesante que me hizo buscar un poco más de información sobre el tema del cable que va bajo el mar.
+Una perspectiva muy interesante que me hizo buscar un poco más de información sobre el tema del enorme cable que va bajo el mar.
 [1000 millones de metros de cable submarino](https://www.xataka.com/historia-tecnologica/1-000-millones-de-metros-de-cable-submarino-son-los-responsables-de-que-tengas-internet-en-casa)
 
 [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc)
