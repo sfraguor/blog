@@ -1,6 +1,8 @@
 
 ### Videos
 
+En este documento simplemente he recopilado los videos con sus enlaces correspondientes y he intentado complementarlos con un poco de información más para tener un punto de consulta de conceptos básicos.
+
 [History of the Internet](https://www.youtube.com/watch?v=9hIQjrMHTv4)
 
 Una introducción a la historia de internet muy interesante y que me ha hecho buscar un poco más sobre el protocolo TCP/IP. 
