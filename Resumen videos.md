@@ -17,8 +17,8 @@ Una perspectiva muy interesante que me hizo buscar un poco más de información 
 Interesante video sobre el sistema de paquetería que utiliza internet. Me ha venido bien para recordar conceptos de redes de la carrera.
 
 [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA)
-Aprovechando este video me ha parecido intersante investigar un poco más sobre el tema de los DNS.
 
+Aprovechando este video me ha parecido intersante investigar un poco más sobre el tema de los DNS.
 [Más sobre DNS](https://www.xatakamovil.com/conectividad/como-funciona-internet-dns)
 
 [20 Things](http://www.20thingsilearned.com/en-US/plugins/2)
