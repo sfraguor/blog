@@ -12,7 +12,7 @@ https://www.w3schools.com/html/html5_syntax.asp
 https://www.w3schools.com/js/js_conventions.asp
 
 ## Fuentes: em vs rem
-En este curso nos recomiendan el uso de las unidades em, pero ahora mismo existe otro tipo de unidad que parece más actual y por ello he querido investigar un poco para ver cual de los dos es mejor utilizar en estos momentos y porque.
+En este curso nos recomiendan el uso de las unidades em, pero ahora mismo existe otro tipo de unidad más actual que parece que puede ayudar a complementar algunos problemas de em, sin embargo parece que lo mejor es combinar em con rem.
 
 https://zellwk.com/blog/rem-vs-em/
 
