@@ -1,5 +1,6 @@
+# Videos 
 
-### Videos
+### [Aprende javascript con MentoringJS - Pretraining Step 2](http://mentoringjs.com)
 
 En este documento simplemente he recopilado los videos con sus enlaces correspondientes y he intentado complementarlos con un poco de información más para tener un punto de consulta de conceptos básicos.
 
