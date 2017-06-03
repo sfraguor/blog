@@ -2,7 +2,10 @@
 
 ### [Aprende javascript con MentoringJS - Pretraining Step 3](http://mentoringjs.com)
 
-## Block vs Inline
+### Block vs Inline vs Inline-block
+Siempre se me olvida la diferencia entre estos 3 valores y he encontrado esta web donde te lo explican de forma que se entiente muy bien.
+
+https://alligator.io/css/display-inline-vs-inline-block/
 
 text-align solo puede alinear BLOQUES no puede alinear elementos INLINE
 
