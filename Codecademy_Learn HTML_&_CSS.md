@@ -25,9 +25,8 @@ Otro de los aspectos a tener claro es el posicionamiento de los elementos, en es
 
 http://es.learnlayout.com/position.html
 
-La propiedad z-index no funciona en elementos estáticos (position:static)
-Los elementos float deven tener una anchura especificada, sino el elemento asumira la anchura del elemento contenedor, y float no tendrá ningun ejemplo.
+#### Apuntes del curso
 
-Propiedad clear
-
-Para poder centrar una imagen, primero tenemos que cambiar a un elemento block. Las imagenes son por defecto elementos inline.
+- La propiedad z-index no funciona en elementos estáticos (position:static)
+- Los elementos float deven tener una anchura especificada, sino el elemento asumira la anchura del elemento contenedor, y float no tendrá ningun ejemplo.
+- Para poder centrar una imagen, primero tenemos que cambiar a un elemento block. Las imagenes son por defecto elementos inline.
