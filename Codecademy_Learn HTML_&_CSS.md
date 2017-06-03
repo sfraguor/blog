@@ -1,5 +1,5 @@
 
-En este documento se describen conceptos y aspectos a destacar del tutorial completado de Codecademy, pero sobre todo tratará de complentar los aspectos que el tutorial no ha mostrado con tanta profundidad y que considero ms importantes.
+En este documento se describen conceptos y aspectos a destacar del tutorial completado de Codecademy, pero sobre todo tratará de complentar los aspectos que el tutorial no ha mostrado con tanta profundidad y que considero más importantes.
 
 Al principio empecé por la lección HTML&CSS pero la web me avisó que este curso iba a retirarse en verano y me recomendaban pasarme a otro curso similar.
 Por lo que este documento se basa en el tutorial Learn HTML & CSS: Part 1
