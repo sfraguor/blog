@@ -1,3 +1,7 @@
+# Dash Exercices 1 to 3
+
+### [Aprende javascript con MentoringJS - Pretraining Step 3](http://mentoringjs.com)
+
 ## Test
 
 Block vs Inline
