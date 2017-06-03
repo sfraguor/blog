@@ -19,7 +19,7 @@ https://zellwk.com/blog/rem-vs-em/
 http://www.cristalab.com/tutoriales/las-medidas-em-y-rem-en-css3-c113125l/
 
 ## Posicionado
-Otro de los aspectos a tener claro es el posicionamiento de los elementos, en esta web se explica muy claro y de una forma muy práctica.
+Otro de los aspectos a tener claro es el posicionamiento de los elementos, en esta web se explica muy claro y de una forma muy práctica para complementar y acabar de ver lo explicado en el tutorial de codecademy.
 
 http://es.learnlayout.com/position.html
 
