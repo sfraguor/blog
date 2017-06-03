@@ -2,13 +2,18 @@
 
 ### [Aprende javascript con MentoringJS - Pretraining Step 3](http://mentoringjs.com)
 
-## Test
+## Block vs Inline
 
-Block vs Inline
 text-align solo puede alinear BLOQUES no puede alinear elementos INLINE
-Para alinear un elemento inline usamos la propiedad float
 
-background-size Cover vs 100%
+### Background-size Cover vs 100%
+
+Al principio me costó un povo porque eran diferentes estas asignaciones, pero encontré un ejemplo en codepen que enseguida me ayudóa a ver la diferencia.
+
+Como vemos en el ejemplo cuando asignamos a la propiedad background-size = 100%, la imagen se adapta a la anchura del contenedor padre manteniendo la altura en proporción, de manera que tal y como se ve en el ejemplo puede quedar parte del contenedor vacío. Si por el contrario asignamos el valos cover a la propiedad, la prioridad es cubrir todo el area del contenedor padre sin variar la proporción, y la única manera de conseguir esto es aumentando la anchura y la altura proporcionalmente hasta cubrir todo perdiendo parte de la imagen, ya que el contenedor padre actua como una especie de máscara.
+
+Ejemplo en codepen: https://codepen.io/netmagik/pen/vEvjaG
+
 Es mejor no asignar a las imagenes una anchura y altura especificas con CSS.
 
 Los navegadores leen el CSS desde la parte de arriba a la de abajo
