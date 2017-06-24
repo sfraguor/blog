@@ -42,7 +42,7 @@ Si por ejemplo queremos dar a un archivos todos los posibles permisos, tanto de 
 chmod 777 (archivo)
 Que le dará todos los permisos.
 
-### Practica
+### Practicar
 
 Para poder utilizar algunos de estos comandos de forma más práctica, realice hace un tiempo este tutorial de (codecademy)[https://www.codecademy.com/learn/learn-the-command-line] que despues de haber leido todo los comandos del tutorial teorico de http://linuxcommand.org, nos irá bien para afianzar lo estudiado. 
 
