@@ -11,19 +11,25 @@ A la hora de editar archivos directamente a través de la linea de comandos hay 
 
 nano test.txt
 
-### Comandos más utilizados[https://www.computerhope.com/unix/urm.htm]
+### [Comandos más utilizados](https://www.computerhope.com/unix/urm.htm)
 
 Estos son los comandos que se utilizan con mas frecuencia a la hora de trabajar con archivos en la terminal:
 
-cp - Copiar (cp [OPTION]... SOURCE... DIRECTORY)
-mv - Mover (mv [OPTION]... SOURCE... DIRECTORY )
-rm - Eliminar (rm [OPTION]... FILE...)
-mkdir - Crear directorio (mkdir [OPTION ...] DIRECTORY ...)
-grep - buscar y filtrar patrones (grep [OPTIONS] PATTERN [FILE...]) 
+- cp - Copiar (cp [OPTION]... SOURCE... DIRECTORY)
+- mv - Mover (mv [OPTION]... SOURCE... DIRECTORY )
+- rm - Eliminar (rm [OPTION]... FILE...)
+- mkdir - Crear directorio (mkdir [OPTION ...] DIRECTORY ...)
+- grep - buscar y filtrar patrones (grep [OPTIONS] PATTERN [FILE...]) 
 
 ### --help
 
 Si tenemos dudas sobre las opciones de cualquier comando lo mejor es lanzar el comando con la opción --help. De este modo nos indicara como se usa y toda las opciones que tiene el comando.
+
+### Sacar por pantalla, comanco echo
+
+El comando se utiliza mucho ya que es normal querer interactuar por pantalla a través de los comandos y scripts por lo que echo será muy usado en todo momento.
+
+
 
 
 
