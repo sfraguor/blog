@@ -25,10 +25,26 @@ Estos son los comandos que se utilizan con mas frecuencia a la hora de trabajar 
 
 Si tenemos dudas sobre las opciones de cualquier comando lo mejor es lanzar el comando con la opción --help. De este modo nos indicara como se usa y toda las opciones que tiene el comando.
 
-### Sacar por pantalla, comanco echo
+### Sacar por pantalla, comando echo
 
-El comando se utiliza mucho ya que es normal querer interactuar por pantalla a través de los comandos y scripts por lo que echo será muy usado en todo momento.
+El comando se utiliza mucho ya que es normal querer interactuar por pantalla a través de los comandos y scripts por lo que echo será muy usado en todo momento tanto en comandos de una linea como en scripts más grandes.
 
+Con el comando echo podremos realizar operaciones que posteriormente lanzaremos por pantalla.
+echo $(($((5**2)) * 3))
+
+### Permisos
+
+Los instrucciones referentes a los permisos son también importantes y es fundamental que tengamos claro su uso.
+
+Quizás el más usado sería CHMOD que se encarga de dar los permisos que queramos a los archivos que queramos en ese momento.
+
+Si por ejemplo queremos dar a un archivos todos los posibles permisos, tanto de lectura como escritura, utilizaremos:
+chmod 777 (archivo)
+Que le dará todos los permisos.
+
+### Practica
+
+Para poder utilizar algunos de estos comandos de forma más práctica, realice hace un tiempo este tutorial de (codecademy)[https://www.codecademy.com/learn/learn-the-command-line] que despues de haber leido todo los comandos del tutorial teorico de http://linuxcommand.org, nos irá bien para afianzar lo estudiado. 
 
 
 
