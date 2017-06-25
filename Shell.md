@@ -44,7 +44,7 @@ Que le dará todos los permisos.
 
 ### Practicar
 
-Para poder utilizar algunos de estos comandos de forma más práctica, realice hace un tiempo este tutorial de (codecademy)[https://www.codecademy.com/learn/learn-the-command-line] que despues de haber leido todo los comandos del tutorial teorico de http://linuxcommand.org, nos irá bien para afianzar lo estudiado. 
+Para poder utilizar algunos de estos comandos de forma más práctica, realicé hace un tiempo este tutorial de (codecademy)[https://www.codecademy.com/learn/learn-the-command-line] que después de haber leído todo los comandos del tutorial teórico de http://linuxcommand.org, nos irá bien para afianzar lo estudiado. 
 
 
 
