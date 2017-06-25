@@ -1,0 +1,5 @@
+### 
+
+
+Lo normal a la hora de trabajar con GIT es tener una sola cuenta, pero en ocasiones si queremos separar nuestros proyectos del trabajo con los personales o con una cuenta de algun curso.
+Esto podría parecer simple, solamente debemos crear otra cuenta en GIT y hacer login en la cuenta que nos interese sin embargo cuando queremos hacer pull o push a una cuenta o a otra desde nuestra máquina local nos encontramos que no es nada sencillo y si lo intentamos, nos aparecerá un mensaje que nos dice que no tenemos permisos.
